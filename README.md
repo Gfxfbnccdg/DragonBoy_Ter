@@ -21,7 +21,7 @@
     <img alt="Twitter: khanh9872" src="https://img.shields.io/twitter/follow/Khnh59855418.svg?style=social" />
 </a>
 
-<a href="https://github.com/KhanhNguyen9872" target="_blank">
+<a href="https://github.com/Gfxfbnccdg/ccc" target="_blank">
     <img alt="Follow Total" src="https://img.shields.io/github/followers/KhanhNguyen9872?style=social" />
 </a>
 
